@@ -1,0 +1,2 @@
+The Dockerfile1 can create a image with lower size and the port is 8001.
+If you want to create a image with Dockerfile2, it creates a image with larger size and also change the port number to 8000 in application properties in src/main/resources
